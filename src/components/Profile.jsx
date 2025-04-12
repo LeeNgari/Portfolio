@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile-pic.png';
+import profilePic from "../assets/20250412_190355.jpg"
 import linkedinIcon from '../assets/linkedin.png';
 import githubIcon from '../assets/github.png';
 
@@ -36,10 +36,10 @@ const Profile = () => {
           Hello, I'm
         </p>
         <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-3 animate-fadeInUp">
-          John Doe
+          Lee Ngari
         </h1>
         <p className="text-2xl md:text-3xl font-medium text-gray-500 mb-6 animate-fadeInUp delay-100">
-          Frontend Developer
+          Full Stack 
         </p>
         
         <p className="text-gray-600 mb-8 leading-relaxed animate-fadeInUp delay-200">

@@ -35,7 +35,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex justify-between items-center">
           {/* Logo/Name */}
-          <div className="text-2xl font-bold text-gray-900 cursor-default">John Doe</div>
+          <div className="text-2xl font-bold text-gray-900 cursor-default">Lee Ngari</div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
